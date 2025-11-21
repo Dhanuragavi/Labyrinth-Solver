@@ -18,5 +18,7 @@ The system integrates:
 - Optical encoders for speed and movement feedback
 
 
-<img width="566" height="413" alt="image" src="https://github.com/user-attachments/assets/2e6e82ce-5c2f-4744-9f04-247d42ee218e" />
+## Component Used
+<img width="479" height="336" alt="image" src="https://github.com/user-attachments/assets/2a8c16e1-5be9-4415-8680-04cb4dd30c86" />
+
 
