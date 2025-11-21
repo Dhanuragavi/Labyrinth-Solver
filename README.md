@@ -16,3 +16,7 @@ The system integrates:
 - Servo motor for directional scanning
 
 - Optical encoders for speed and movement feedback
+
+
+<img width="566" height="413" alt="image" src="https://github.com/user-attachments/assets/2e6e82ce-5c2f-4744-9f04-247d42ee218e" />
+
