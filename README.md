@@ -63,7 +63,8 @@ The system integrates:
 
 
 ## Pin Configuration
-<img width="854" height="587" alt="image" src="https://github.com/user-attachments/assets/eb77c4ba-ea4c-4f75-89df-72c1b426baba" />
+<img width="781" height="624" alt="image" src="https://github.com/user-attachments/assets/b80b8b4b-622d-4e69-8202-007cc7c4b710" />
+
 
 ## How to Use
 
