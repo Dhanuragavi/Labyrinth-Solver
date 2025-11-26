@@ -21,4 +21,44 @@ The system integrates:
 ## Component Used
 <img width="479" height="336" alt="image" src="https://github.com/user-attachments/assets/2a8c16e1-5be9-4415-8680-04cb4dd30c86" />
 
+## Working Principle
+
+-The robot moves forward continuously.
+
+-The ultrasonic sensor measures the distance to obstacles.
+
+-If an obstacle is detected below a threshold distance:
+
+-The robot stops.
+
+-The servo rotates the ultrasonic sensor to check left and right.
+
+-Based on the measured distances:
+
+-It turns left, right, or moves backward.
+
+-Wheel encoders provide speed feedback to maintain straight movement.
+
+
+ 
+ ## Features
+
+- Autonomous obstacle detection and avoidance
+
+- Adaptive movement based on real-time sensor input
+
+- Servo-based directional scanning
+
+- Encoder-based movement correction
+
+- PID-like motor balancing using encoder difference
+
+## Software & Tools
+
+- Energia IDE (for Tiva C programming)
+
+- Embedded C
+
+- Serial Monitor for debugging
+
 
