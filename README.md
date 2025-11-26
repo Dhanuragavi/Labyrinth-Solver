@@ -23,21 +23,21 @@ The system integrates:
 
 ## Working Principle
 
--The robot moves forward continuously.
+- The robot moves forward continuously.
 
--The ultrasonic sensor measures the distance to obstacles.
+- The ultrasonic sensor measures the distance to obstacles.
 
--If an obstacle is detected below a threshold distance:
+- If an obstacle is detected below a threshold distance:
 
--The robot stops.
+- The robot stops.
 
--The servo rotates the ultrasonic sensor to check left and right.
+- The servo rotates the ultrasonic sensor to check left and right.
 
--Based on the measured distances:
+- Based on the measured distances:
 
--It turns left, right, or moves backward.
+- It turns left, right, or moves backward.
 
--Wheel encoders provide speed feedback to maintain straight movement.
+- Wheel encoders provide speed feedback to maintain straight movement.
 
 
  
@@ -62,3 +62,15 @@ The system integrates:
 - Serial Monitor for debugging
 
 
+## Pin Configuration
+<img width="854" height="587" alt="image" src="https://github.com/user-attachments/assets/eb77c4ba-ea4c-4f75-89df-72c1b426baba" />
+
+## How to Use
+
+- Upload the provided .ino file to your Tiva C board using Energia IDE.
+
+- Connect all hardware components as per the pin configuration.
+
+- Power the robot and place it inside a maze environment.
+
+- The robot will start navigating autonomously.
